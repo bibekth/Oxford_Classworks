@@ -1,0 +1,32 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 3vw;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.title{
+    color: black;
+    text-align: center;
+}
+form{
+    background-color: burlywood;
+
+}
+#title{
+    font-size: 30px;
+    margin-bottom: -1vw;
+}
+#middle{
+    text-align: center;
+}
+.upperbody{
+    margin-bottom: 2vw;
+    display: flex;
+}
+.intropart{
+    margin: 2vw;
+}
+img{
+    width: 5vw;
+    margin: 0.5vw;
+}
